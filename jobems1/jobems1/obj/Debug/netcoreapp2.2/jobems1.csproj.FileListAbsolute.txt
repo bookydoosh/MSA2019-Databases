@@ -1,0 +1,14 @@
+C:\Users\mohni\source\repos\jobems1\jobems1\bin\Debug\netcoreapp2.2\jobems1.deps.json
+C:\Users\mohni\source\repos\jobems1\jobems1\bin\Debug\netcoreapp2.2\jobems1.runtimeconfig.json
+C:\Users\mohni\source\repos\jobems1\jobems1\bin\Debug\netcoreapp2.2\jobems1.runtimeconfig.dev.json
+C:\Users\mohni\source\repos\jobems1\jobems1\bin\Debug\netcoreapp2.2\jobems1.dll
+C:\Users\mohni\source\repos\jobems1\jobems1\obj\Debug\netcoreapp2.2\jobems1.csprojAssemblyReference.cache
+C:\Users\mohni\source\repos\jobems1\jobems1\obj\Debug\netcoreapp2.2\jobems1.csproj.CoreCompileInputs.cache
+C:\Users\mohni\source\repos\jobems1\jobems1\obj\Debug\netcoreapp2.2\jobems1.RazorAssemblyInfo.cache
+C:\Users\mohni\source\repos\jobems1\jobems1\obj\Debug\netcoreapp2.2\jobems1.RazorAssemblyInfo.cs
+C:\Users\mohni\source\repos\jobems1\jobems1\obj\Debug\netcoreapp2.2\jobems1.AssemblyInfoInputs.cache
+C:\Users\mohni\source\repos\jobems1\jobems1\obj\Debug\netcoreapp2.2\jobems1.AssemblyInfo.cs
+C:\Users\mohni\source\repos\jobems1\jobems1\obj\Debug\netcoreapp2.2\jobems1.RazorTargetAssemblyInfo.cache
+C:\Users\mohni\source\repos\jobems1\jobems1\bin\Debug\netcoreapp2.2\jobems1.pdb
+C:\Users\mohni\source\repos\jobems1\jobems1\obj\Debug\netcoreapp2.2\jobems1.dll
+C:\Users\mohni\source\repos\jobems1\jobems1\obj\Debug\netcoreapp2.2\jobems1.pdb
